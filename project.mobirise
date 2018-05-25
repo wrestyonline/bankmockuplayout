@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "247bankruptcylayout",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 48,
@@ -63,7 +63,9 @@
         "name": "Pacifico",
         "url": "https://fonts.googleapis.com/css?family=Pacifico:400"
       }
-    ]
+    ],
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
